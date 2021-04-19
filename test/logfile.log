@@ -1,0 +1,280 @@
+2020-06-13 17:49:24,077 :INFO : test_form_submission :firstname is SAGAR
+2020-06-13 17:49:24,792 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 17:49:24,808 :INFO : test_form_submission :firstname is GOGATE
+2020-06-13 17:49:24,808 :INFO : test_form_submission :firstname is GOGATE
+2020-06-13 17:49:25,344 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 17:49:25,344 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 17:49:31,021 :INFO : test_e2e :getting all the card details 
+2020-06-13 17:49:31,057 :INFO : test_e2e :iphone X
+2020-06-13 17:49:31,173 :INFO : test_e2e :Samsung Note 8
+2020-06-13 17:49:31,193 :INFO : test_e2e :Nokia Edge
+2020-06-13 17:49:31,213 :INFO : test_e2e :Blackberry
+2020-06-13 17:49:31,418 :INFO : test_e2e :Entering country name as ind
+2020-06-13 17:49:37,094 :INFO : test_e2e :Text received from application
+2020-06-13 17:49:37,094 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-13 18:07:43,933 :INFO : test_form_submission :firstname is SAGAR
+2020-06-13 18:07:44,661 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 18:07:45,193 :INFO : test_form_submission :firstname is GOGATE
+2020-06-13 18:07:45,193 :INFO : test_form_submission :firstname is GOGATE
+2020-06-13 18:07:45,741 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 18:07:45,741 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 18:07:52,655 :INFO : test_e2e :getting all the card details 
+2020-06-13 18:07:52,695 :INFO : test_e2e :iphone X
+2020-06-13 18:07:52,807 :INFO : test_e2e :Samsung Note 8
+2020-06-13 18:07:52,831 :INFO : test_e2e :Nokia Edge
+2020-06-13 18:07:52,855 :INFO : test_e2e :Blackberry
+2020-06-13 18:07:53,075 :INFO : test_e2e :Entering country name as ind
+2020-06-13 18:07:58,691 :INFO : test_e2e :Text received from application
+2020-06-13 18:07:58,691 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-13 18:11:21,184 :INFO : test_form_submission :firstname is SAGAR
+2020-06-13 18:11:21,873 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 18:11:21,881 :INFO : test_form_submission :firstname is GOGATE
+2020-06-13 18:11:21,881 :INFO : test_form_submission :firstname is GOGATE
+2020-06-13 18:11:22,435 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 18:11:22,435 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-13 18:11:29,949 :INFO : test_e2e :getting all the card details 
+2020-06-13 18:11:30,001 :INFO : test_e2e :iphone X
+2020-06-13 18:11:30,166 :INFO : test_e2e :Samsung Note 8
+2020-06-13 18:11:30,196 :INFO : test_e2e :Nokia Edge
+2020-06-13 18:11:30,221 :INFO : test_e2e :Blackberry
+2020-06-13 18:11:30,438 :INFO : test_e2e :Entering country name as ind
+2020-06-13 18:11:36,161 :INFO : test_e2e :Text received from application
+2020-06-13 18:11:36,161 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 07:52:02,027 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 07:52:02,806 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 07:52:02,822 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 07:52:02,822 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 07:52:03,413 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 07:52:03,413 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 07:52:12,829 :INFO : test_e2e :getting all the card details 
+2020-06-14 07:52:12,869 :INFO : test_e2e :iphone X
+2020-06-14 07:52:13,022 :INFO : test_e2e :Samsung Note 8
+2020-06-14 07:52:13,046 :INFO : test_e2e :Nokia Edge
+2020-06-14 07:52:13,070 :INFO : test_e2e :Blackberry
+2020-06-14 07:52:13,295 :INFO : test_e2e :Entering country name as ind
+2020-06-14 07:52:18,890 :INFO : test_e2e :Text received from application
+2020-06-14 07:52:18,890 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:09:18,808 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:09:19,478 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:09:19,490 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:09:19,490 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:09:19,977 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:09:19,977 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:09:26,658 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:09:26,698 :INFO : test_e2e :iphone X
+2020-06-14 08:09:26,822 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:09:26,842 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:09:26,866 :INFO : test_e2e :Blackberry
+2020-06-14 08:09:27,074 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:09:32,727 :INFO : test_e2e :Text received from application
+2020-06-14 08:09:32,727 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:20:54,840 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:20:55,267 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:20:55,274 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:20:55,274 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:20:55,549 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:20:55,549 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:21:03,840 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:21:03,866 :INFO : test_e2e :iphone X
+2020-06-14 08:21:03,929 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:21:03,941 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:21:03,955 :INFO : test_e2e :Blackberry
+2020-06-14 08:21:04,101 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:21:09,493 :INFO : test_e2e :Text received from application
+2020-06-14 08:21:09,493 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:22:35,407 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:22:35,837 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:22:35,848 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:22:35,848 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:22:36,132 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:22:36,132 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:22:44,989 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:22:45,016 :INFO : test_e2e :iphone X
+2020-06-14 08:22:45,113 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:22:45,125 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:22:45,139 :INFO : test_e2e :Blackberry
+2020-06-14 08:22:45,283 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:22:50,693 :INFO : test_e2e :Text received from application
+2020-06-14 08:22:50,693 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:28:16,538 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:28:16,926 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:28:16,937 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:28:16,937 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:28:17,223 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:28:17,223 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:28:36,264 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:28:36,296 :INFO : test_e2e :iphone X
+2020-06-14 08:28:36,366 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:28:36,381 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:28:36,397 :INFO : test_e2e :Blackberry
+2020-06-14 08:28:36,537 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:28:41,945 :INFO : test_e2e :Text received from application
+2020-06-14 08:28:41,945 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:44:28,459 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:44:28,852 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:44:28,863 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:44:28,863 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:44:29,134 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:44:29,134 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:44:38,174 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:44:38,202 :INFO : test_e2e :iphone X
+2020-06-14 08:44:38,299 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:44:38,313 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:44:38,336 :INFO : test_e2e :Blackberry
+2020-06-14 08:44:38,503 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:44:43,895 :INFO : test_e2e :Text received from application
+2020-06-14 08:44:43,895 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:48:34,628 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:48:35,022 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:48:35,030 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:48:35,030 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:48:35,302 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:48:35,302 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:48:44,260 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:48:44,286 :INFO : test_e2e :iphone X
+2020-06-14 08:48:44,364 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:48:44,376 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:48:44,390 :INFO : test_e2e :Blackberry
+2020-06-14 08:48:44,536 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:48:49,941 :INFO : test_e2e :Text received from application
+2020-06-14 08:48:49,941 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:52:39,024 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:52:39,407 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:52:39,417 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:52:39,417 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:52:39,686 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:52:39,686 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:52:48,354 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:52:48,384 :INFO : test_e2e :iphone X
+2020-06-14 08:52:48,468 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:52:48,480 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:52:48,493 :INFO : test_e2e :Blackberry
+2020-06-14 08:52:48,640 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:52:54,061 :INFO : test_e2e :Text received from application
+2020-06-14 08:52:54,061 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 08:58:38,750 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 08:58:39,129 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:58:39,139 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:58:39,139 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 08:58:39,410 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:58:39,410 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 08:58:48,159 :INFO : test_e2e :getting all the card details 
+2020-06-14 08:58:48,185 :INFO : test_e2e :iphone X
+2020-06-14 08:58:48,273 :INFO : test_e2e :Samsung Note 8
+2020-06-14 08:58:48,285 :INFO : test_e2e :Nokia Edge
+2020-06-14 08:58:48,298 :INFO : test_e2e :Blackberry
+2020-06-14 08:58:48,445 :INFO : test_e2e :Entering country name as ind
+2020-06-14 08:58:53,836 :INFO : test_e2e :Text received from application
+2020-06-14 08:58:53,836 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 09:03:08,177 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 09:03:08,538 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 09:03:08,546 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 09:03:08,546 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 09:03:08,807 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 09:03:08,807 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 09:03:16,813 :INFO : test_e2e :getting all the card details 
+2020-06-14 09:03:16,840 :INFO : test_e2e :iphone X
+2020-06-14 09:03:16,967 :INFO : test_e2e :Samsung Note 8
+2020-06-14 09:03:16,982 :INFO : test_e2e :Nokia Edge
+2020-06-14 09:03:17,000 :INFO : test_e2e :Blackberry
+2020-06-14 09:03:17,174 :INFO : test_e2e :Entering country name as ind
+2020-06-14 09:03:22,604 :INFO : test_e2e :Text received from application
+2020-06-14 09:03:22,604 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 11:33:43,309 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 11:33:43,768 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 11:33:43,788 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 11:33:43,788 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 13:26:17,776 :INFO : test_e2e :getting all the card details 
+2020-06-14 13:26:17,803 :INFO : test_e2e :iphone X
+2020-06-14 13:26:17,877 :INFO : test_e2e :Samsung Note 8
+2020-06-14 13:26:17,890 :INFO : test_e2e :Nokia Edge
+2020-06-14 13:26:17,904 :INFO : test_e2e :Blackberry
+2020-06-14 13:26:18,040 :INFO : test_e2e :Entering country name as ind
+2020-06-14 13:26:23,440 :INFO : test_e2e :Text received from application
+2020-06-14 13:26:23,440 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 13:56:55,193 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 13:56:55,624 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 13:56:55,634 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 13:56:55,634 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 13:56:55,921 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 13:56:55,921 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 14:12:46,424 :INFO : test_e2e :getting all the card details 
+2020-06-14 14:12:46,451 :INFO : test_e2e :iphone X
+2020-06-14 14:12:46,519 :INFO : test_e2e :Samsung Note 8
+2020-06-14 14:12:46,535 :INFO : test_e2e :Nokia Edge
+2020-06-14 14:12:46,548 :INFO : test_e2e :Blackberry
+2020-06-14 14:12:46,698 :INFO : test_e2e :Entering country name as ind
+2020-06-14 14:12:52,100 :INFO : test_e2e :Text received from application
+2020-06-14 14:12:52,100 :INFO : test_e2e :ª
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-14 14:15:56,601 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 14:18:42,064 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 14:19:39,584 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 14:21:56,970 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 14:27:27,408 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 14:33:05,620 :INFO : test_form_submission :firstname is SAGAR
+2020-06-14 14:33:06,417 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 14:33:06,433 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 14:33:06,433 :INFO : test_form_submission :firstname is GOGATE
+2020-06-14 14:33:07,043 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
+2020-06-14 14:33:07,043 :INFO : test_form_submission :ª
+Success! The Form has been submitted successfully!.
